@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {WaingelsSMP
-    "ip": "WaingelsSMP.aternos.me",
+    "ip": "WaingelsSMP.aternos.me:32335",
     "port": 32335,
     "version": "",
     "try-creative": false
